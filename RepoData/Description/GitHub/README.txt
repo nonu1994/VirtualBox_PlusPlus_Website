@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔳️➕️➕️🌐️ The official source repository for the website of the VirtualBox++ project, a commuity project dedicated to modifications to improve VirtualBox, including UI modifications, more VM options, better configuration defaults, and more. 
